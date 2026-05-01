@@ -1,3 +1,4 @@
+# Pull request ornegi icin yorum eklendi
 import unittest
 from validator import validate_registration
 
